@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5e337ad1-4ee3-46f3-856b-70a258916976)
+
 - Data walkthrought
 - Raw data file preparation
 - Creating Database
